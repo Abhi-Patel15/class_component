@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "address": {
+        "street": "Kattie Turnpike",
+        "suite": "Suite 198",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261",
+        "geo": {
+          "lat": "-38.2386",
+          "lng": "57.2232"
+        }
+      },
+      "phone": "024-648-3804swswq",
+      "website": "ambrose.net",
+      "company": {
+        "name": "Hoeger LLC",
+        "catchPhrase": "Centralized empowering task-force",
+        "bs": "target end-to-end models"
+      }
+    },
+    {
+      "name": "MeenakshiMeenas",
+      "email": "admin123@gmail.com",
+      "phone": "z",
+      "id": 11
+    },
+    {
+      "name": "MeenakshiMeenas",
+      "email": "admin123@gmail.com",
+      "phone": "22222222",
+      "id": 12
+    },
+    {
+      "name": "MeenakshiMeenas",
+      "email": "admin123@gmail.com",
+      "phone": "22222222",
+      "id": 13
+    },
+    {
+      "name": "www",
+      "email": "www",
+      "phone": "wwww",
+      "id": 14
+    },
+    {
+      "name": "www",
+      "email": "www",
+      "phone": "wwww",
+      "id": 15
+    },
+    {
+      "name": "www",
+      "email": "www",
+      "phone": "wwww",
+      "id": 16
+    },
+    {
+      "name": "hdhdh",
+      "email": "admin@gmail.com",
+      "phone": " dsbdbdbbdbd",
+      "id": 17
+    }
+  ]
+}
